@@ -1,0 +1,6 @@
+# project-specific
+profiles/*.prof
+
+/unlearned.json
+
+__pycache__/
